@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LED Matrix Controller",
+    "slug": "led-matrix-controller",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "sdkVersion": "51.0.0"
+  }
+}
+
