@@ -29,7 +29,7 @@ export default function App() {
         })}
       >
         <Text style={{ fontSize: 16, fontWeight: "500" }}>
-          Connect to ESP32
+          Connect to ESP323223
         </Text>
       </Pressable>
     </View>

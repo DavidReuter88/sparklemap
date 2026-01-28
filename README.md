@@ -17,21 +17,31 @@ From this folder:
 npm install
 ```
 
-## Run the app
+## Run the app with the latest Expo Go
 
-Start the Expo dev server:
+Make sure you have the **latest Expo Go** app installed from the iOS App Store or Google Play.
+
+### Start the dev server
 
 ```bash
-npm run start
+npm start
 ```
 
+This will start the Expo development server and show a QR code in the terminal / browser.
+
 ### Android
+
+- **Physical device**: Open Expo Go and scan the QR code.
+- **Android emulator**: With the emulator running, press `a` in the Expo CLI terminal, or run:
 
 ```bash
 npm run android
 ```
 
 ### iOS
+
+- **Physical device**: Use the Camera app (or Expo Go) to scan the QR code and open in Expo Go.
+- **iOS simulator (macOS only)**: With the simulator running, press `i` in the Expo CLI terminal, or run:
 
 ```bash
 npm run ios
